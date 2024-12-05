@@ -61,6 +61,7 @@ const Categories = ({ interval = 8000, language = 'en' }) => {
         <div
             data-aos="fade-right"
             className='category-slider-section' >
+                
             <h1>{t('category.textone')}</h1>
             <h1>{t('category.texttwo')}</h1>
             <p style={{

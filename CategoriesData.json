@@ -1,6 +1,6 @@
 [
     {
-        "image": "./src/assets/categoryiconone.png",
+        "image": "/public/img/categoryiconone.png",
         "title": {
             "en": "Art & Humanities",
             "az": "İncəsənət və Humanitar Elmlər",
@@ -15,7 +15,7 @@
         "textColor": "#F54A87"
     },
     {
-        "image": "./src/assets/categoryicontwo.png",
+        "image": "/public/img/categoryicontwo.png",
         "title": {
             "en": "Science & Technology",
             "az": "Elm və Texnologiya",
@@ -30,7 +30,7 @@
         "textColor": "#2873FF"
     },
     {
-        "image": "./src/assets/categoryiconthree.png",
+        "image": "/public/img/categoryiconthree.png",
         "title": {
             "en": "Business & Management",
             "az": "Biznes və Menecment",
@@ -45,7 +45,7 @@
         "textColor": "#F9AD1A"
     },
     {
-        "image": "./src/assets/categoryiconfour.png",
+        "image": "/public/img/categoryiconfour.png",
         "title": {
             "en": "Health & Medicine",
             "az": "Sağlamlıq və Tibb",
@@ -60,7 +60,7 @@
         "textColor": "#44CD3B"
     },
     {
-        "image": "./src/assets/categoryiconone.png",
+        "image": "/public/img/categoryiconone.png",
         "title": {
             "en": "Social Sciences",
             "az": "Sosial Elmlər",
@@ -75,7 +75,7 @@
         "textColor": "#F54A87"
     },
     {
-        "image": "./src/assets/categoryicontwo.png",
+        "image": "/public/img/categoryicontwo.png",
         "title": {
             "en": "Languages & Literature",
             "az": "Dillər və Ədəbiyyat",
@@ -90,7 +90,7 @@
         "textColor": "#2873FF"
     },
     {
-        "image": "./src/assets/categoryiconthree.png",
+        "image": "/public/img/categoryiconthree.png",
         "title": {
             "en": "Languages & Literature",
             "az": "Dillər və Ədəbiyyat",
@@ -105,7 +105,7 @@
         "textColor": "#F9AD1A"
     },
     {
-        "image": "./src/assets/categoryiconfour.png",
+        "image": "/public/img/categoryiconfour.png",
         "title": {
             "en": "Languages & Literature",
             "az": "Dillər və Ədəbiyyat",
